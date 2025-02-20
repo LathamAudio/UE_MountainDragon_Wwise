@@ -1,0 +1,133 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1799208949",
+    "Type": "Event",
+    "GUID": "{81FE1782-D7AF-4114-8813-6F21C2FE65B0}",
+    "Language": "SFX",
+    "Hash": "{99111A4E-BB5E-EFD6-8F44-76923F7ECD4D}",
+    "ObjectPath": "Play_MB_BreatheFire",
+    "ShortName": "Play_MB_BreatheFire",
+    "Path": "Event/Play_MB_BreatheFire.bnk",
+    "Media": [
+     {
+      "Id": "72798208",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_BreatheFire-007.wav",
+      "Path": "Media/72798208.wem",
+      "CachePath": "A3/{A3625345-91B3-12C3-1509-B1EFAD7DEDA3}.wem"
+     },
+     {
+      "Id": "102795832",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_BreatheFire-003.wav",
+      "Path": "Media/102795832.wem",
+      "CachePath": "A3/{A3BDF5ED-B276-942C-730A-858FFAA9C8A4}.wem"
+     },
+     {
+      "Id": "154606040",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_BreatheFire-008.wav",
+      "Path": "Media/154606040.wem",
+      "CachePath": "CA/{CAE87939-07D3-6A7A-8E47-A028C8E5DCE4}.wem"
+     },
+     {
+      "Id": "167617785",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_BreatheFire-001.wav",
+      "Path": "Media/167617785.wem",
+      "CachePath": "A3/{A35159EA-E32B-3091-3182-8450182AD91A}.wem"
+     },
+     {
+      "Id": "358233286",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_BreatheFire-004.wav",
+      "Path": "Media/358233286.wem",
+      "CachePath": "13/{1334A220-AA03-CA12-4D8A-BC42068A9FD6}.wem"
+     },
+     {
+      "Id": "645255632",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_BreatheFire-006.wav",
+      "Path": "Media/645255632.wem",
+      "CachePath": "0A/{0A3162FB-D9D4-F041-15FD-D4C1FC6094C2}.wem"
+     },
+     {
+      "Id": "687182557",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_BreatheFire-002.wav",
+      "Path": "Media/687182557.wem",
+      "CachePath": "AA/{AA6DAE29-9854-BA7D-27E0-961E79D55F2A}.wem"
+     },
+     {
+      "Id": "695731448",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_BreatheFire-005.wav",
+      "Path": "Media/695731448.wem",
+      "CachePath": "2F/{2F525C84-5099-5C1B-02E5-387343A938D2}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1799208949",
+      "Name": "Play_MB_BreatheFire",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MB_BreatheFire",
+      "GUID": "{81FE1782-D7AF-4114-8813-6F21C2FE65B0}",
+      "MaxAttenuation": "1200",
+      "DurationType": "OneShot",
+      "DurationMin": "3.0478334",
+      "DurationMax": "5.4163127",
+      "MediaRefs": [
+       {
+        "Id": "72798208"
+       },
+       {
+        "Id": "102795832"
+       },
+       {
+        "Id": "154606040"
+       },
+       {
+        "Id": "167617785"
+       },
+       {
+        "Id": "358233286"
+       },
+       {
+        "Id": "645255632"
+       },
+       {
+        "Id": "687182557"
+       },
+       {
+        "Id": "695731448"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{08E0F18F-B98C-7B1F-74F9-06A2B6DC5AEC}"
+ }
+}

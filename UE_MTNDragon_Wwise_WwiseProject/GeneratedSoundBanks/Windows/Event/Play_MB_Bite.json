@@ -1,0 +1,85 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2092054488",
+    "Type": "Event",
+    "GUID": "{8F4891D3-F06E-4512-B651-B897C2120C8C}",
+    "Language": "SFX",
+    "Hash": "{F7471C64-0341-E7EB-7A3A-1173A546DC2F}",
+    "ObjectPath": "Play_MB_Bite",
+    "ShortName": "Play_MB_Bite",
+    "Path": "Event/Play_MB_Bite.bnk",
+    "Media": [
+     {
+      "Id": "339640541",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Bite-002.wav",
+      "Path": "Media/339640541.wem",
+      "CachePath": "91/{91604C0B-FA4D-0F9E-6151-BBD93692F9BE}.wem"
+     },
+     {
+      "Id": "352305172",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Bite-001.wav",
+      "Path": "Media/352305172.wem",
+      "CachePath": "E4/{E428AC99-96AC-BD3E-7C82-F308BDE06764}.wem"
+     },
+     {
+      "Id": "665265470",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Bite-003.wav",
+      "Path": "Media/665265470.wem",
+      "CachePath": "98/{98333200-CB26-D18D-52D4-3AB69D65BD02}.wem"
+     },
+     {
+      "Id": "893594181",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Bite-004.wav",
+      "Path": "Media/893594181.wem",
+      "CachePath": "49/{495AB88F-44DF-FED3-1610-FF6C8D6F296F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2092054488",
+      "Name": "Play_MB_Bite",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MB_Bite",
+      "GUID": "{8F4891D3-F06E-4512-B651-B897C2120C8C}",
+      "MaxAttenuation": "1200",
+      "DurationType": "OneShot",
+      "DurationMin": "0.476",
+      "DurationMax": "0.6252083",
+      "MediaRefs": [
+       {
+        "Id": "339640541"
+       },
+       {
+        "Id": "352305172"
+       },
+       {
+        "Id": "665265470"
+       },
+       {
+        "Id": "893594181"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DB37AAF3-B953-A6EA-DED9-17C226C9F823}"
+ }
+}

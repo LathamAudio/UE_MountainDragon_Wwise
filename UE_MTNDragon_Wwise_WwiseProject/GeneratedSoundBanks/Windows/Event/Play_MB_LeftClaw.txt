@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1103883644	Play_MB_LeftClaw			\Default Work Unit\Play_MB_LeftClaw	
+

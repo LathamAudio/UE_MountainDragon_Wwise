@@ -1,0 +1,145 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3136691735",
+    "Type": "Event",
+    "GUID": "{EB2C1321-AE5D-4878-AE8A-8469D7E37DF9}",
+    "Language": "SFX",
+    "Hash": "{470C0E6F-CFDA-2507-9BF5-63F2C16DA680}",
+    "ObjectPath": "Play_MB_Explosion",
+    "ShortName": "Play_MB_Explosion",
+    "Path": "Event/Play_MB_Explosion.bnk",
+    "Media": [
+     {
+      "Id": "204689846",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-005.wav",
+      "Path": "Media/204689846.wem",
+      "CachePath": "6F/{6F25F6FE-DBBA-153F-A36F-B270D1AEAECA}.wem"
+     },
+     {
+      "Id": "315245185",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-002.wav",
+      "Path": "Media/315245185.wem",
+      "CachePath": "F4/{F45F12F2-EF75-F8DE-EB26-145E5871E9F2}.wem"
+     },
+     {
+      "Id": "345548328",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-003.wav",
+      "Path": "Media/345548328.wem",
+      "CachePath": "37/{37FDC8C6-4CFB-B3FF-5E40-D1A30C50408B}.wem"
+     },
+     {
+      "Id": "554626093",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-006.wav",
+      "Path": "Media/554626093.wem",
+      "CachePath": "78/{785FC3DA-0C90-DBFD-1E71-09623BC18E3F}.wem"
+     },
+     {
+      "Id": "657264264",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-001.wav",
+      "Path": "Media/657264264.wem",
+      "CachePath": "7C/{7C323209-91CD-FCCF-14AB-2467333FA1D3}.wem"
+     },
+     {
+      "Id": "674006144",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-008.wav",
+      "Path": "Media/674006144.wem",
+      "CachePath": "D0/{D0E60F5F-1F00-EE00-6395-415D2B23CF44}.wem"
+     },
+     {
+      "Id": "807074634",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-009.wav",
+      "Path": "Media/807074634.wem",
+      "CachePath": "A3/{A3980F51-8E4E-D740-112E-902A083E88B8}.wem"
+     },
+     {
+      "Id": "896026086",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-004.wav",
+      "Path": "Media/896026086.wem",
+      "CachePath": "FF/{FFF743A8-AB84-7E26-8C62-1F78358F1206}.wem"
+     },
+     {
+      "Id": "955151674",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Explosion-007.wav",
+      "Path": "Media/955151674.wem",
+      "CachePath": "54/{54F7AC89-622A-4023-6AB9-5095F4C4BBC0}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3136691735",
+      "Name": "Play_MB_Explosion",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MB_Explosion",
+      "GUID": "{EB2C1321-AE5D-4878-AE8A-8469D7E37DF9}",
+      "MaxAttenuation": "2500",
+      "DurationType": "OneShot",
+      "DurationMin": "0.6522083",
+      "DurationMax": "1.1184167",
+      "MediaRefs": [
+       {
+        "Id": "204689846"
+       },
+       {
+        "Id": "315245185"
+       },
+       {
+        "Id": "345548328"
+       },
+       {
+        "Id": "554626093"
+       },
+       {
+        "Id": "657264264"
+       },
+       {
+        "Id": "674006144"
+       },
+       {
+        "Id": "807074634"
+       },
+       {
+        "Id": "896026086"
+       },
+       {
+        "Id": "955151674"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D5C70FFC-0B88-7356-DD35-8EB4B7A75347}"
+ }
+}

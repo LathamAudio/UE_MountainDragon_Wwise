@@ -1,0 +1,157 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3781505773",
+    "Type": "Event",
+    "GUID": "{AFE55368-B961-4BE9-A497-848C511EDD70}",
+    "Language": "SFX",
+    "Hash": "{170AF5CD-7578-6E6C-B561-4AE8FFD72D60}",
+    "ObjectPath": "Play_MB_Fireball",
+    "ShortName": "Play_MB_Fireball",
+    "Path": "Event/Play_MB_Fireball.bnk",
+    "Media": [
+     {
+      "Id": "74706009",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-005.wav",
+      "Path": "Media/74706009.wem",
+      "CachePath": "E1/{E19BB7AC-63F6-0864-B6ED-9CEB32C290B9}.wem"
+     },
+     {
+      "Id": "113325351",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-008.wav",
+      "Path": "Media/113325351.wem",
+      "CachePath": "07/{0764C751-C185-D61B-5965-62EC7B9C7819}.wem"
+     },
+     {
+      "Id": "117510874",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-007.wav",
+      "Path": "Media/117510874.wem",
+      "CachePath": "E7/{E781815A-9C8D-6DEC-75DD-71E68E92EA65}.wem"
+     },
+     {
+      "Id": "301785115",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-001.wav",
+      "Path": "Media/301785115.wem",
+      "CachePath": "91/{918434EC-4220-5A7F-8005-D0CDB7CF0A30}.wem"
+     },
+     {
+      "Id": "330600147",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-003.wav",
+      "Path": "Media/330600147.wem",
+      "CachePath": "43/{43B8D575-AD51-49B6-38A5-F2DD1C25090A}.wem"
+     },
+     {
+      "Id": "433234610",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-006.wav",
+      "Path": "Media/433234610.wem",
+      "CachePath": "9E/{9E371903-CA48-0596-5DDE-7013DB830750}.wem"
+     },
+     {
+      "Id": "635136767",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-010.wav",
+      "Path": "Media/635136767.wem",
+      "CachePath": "D8/{D88E9D98-CC0E-2810-7E28-EB5C4E530C96}.wem"
+     },
+     {
+      "Id": "659517608",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-004.wav",
+      "Path": "Media/659517608.wem",
+      "CachePath": "81/{81992653-6ABD-3BEB-98F4-4D97954EC94F}.wem"
+     },
+     {
+      "Id": "917459196",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-009.wav",
+      "Path": "Media/917459196.wem",
+      "CachePath": "BB/{BBC79697-05C0-1CE9-39A0-8E41BD181531}.wem"
+     },
+     {
+      "Id": "1012697283",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Fireball-002.wav",
+      "Path": "Media/1012697283.wem",
+      "CachePath": "FA/{FAB23EF8-9BF2-CC54-78CA-C9B1C1574BEA}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3781505773",
+      "Name": "Play_MB_Fireball",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MB_Fireball",
+      "GUID": "{AFE55368-B961-4BE9-A497-848C511EDD70}",
+      "MaxAttenuation": "2500",
+      "DurationType": "OneShot",
+      "DurationMin": "0.653625",
+      "DurationMax": "0.96620834",
+      "MediaRefs": [
+       {
+        "Id": "74706009"
+       },
+       {
+        "Id": "113325351"
+       },
+       {
+        "Id": "117510874"
+       },
+       {
+        "Id": "301785115"
+       },
+       {
+        "Id": "330600147"
+       },
+       {
+        "Id": "433234610"
+       },
+       {
+        "Id": "635136767"
+       },
+       {
+        "Id": "659517608"
+       },
+       {
+        "Id": "917459196"
+       },
+       {
+        "Id": "1012697283"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9C5AB443-6591-3E63-A275-E11EF5AD4B24}"
+ }
+}

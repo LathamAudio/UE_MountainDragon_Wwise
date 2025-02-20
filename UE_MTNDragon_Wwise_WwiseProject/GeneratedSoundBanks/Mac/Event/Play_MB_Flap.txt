@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	635139571	Play_MB_Flap			\Default Work Unit\Play_MB_Flap	
+

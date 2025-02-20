@@ -1,0 +1,121 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1463521689",
+    "Type": "Event",
+    "GUID": "{519088E6-8263-4E24-9AF1-A2CA0BABE912}",
+    "Language": "SFX",
+    "Hash": "{F447C045-D3A2-0263-EF6B-21E1E6F61AC8}",
+    "ObjectPath": "Play_MB_Land",
+    "ShortName": "Play_MB_Land",
+    "Path": "Event/Play_MB_Land.bnk",
+    "Media": [
+     {
+      "Id": "127990958",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Land-003.wav",
+      "Path": "Media/127990958.wem",
+      "CachePath": "F0/{F099E9E5-4244-B1C2-9944-26FC24797A9E}.wem"
+     },
+     {
+      "Id": "134591563",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Land-001.wav",
+      "Path": "Media/134591563.wem",
+      "CachePath": "81/{813B930F-B6D7-8D95-5446-3114AF266BB6}.wem"
+     },
+     {
+      "Id": "179373336",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Land-006.wav",
+      "Path": "Media/179373336.wem",
+      "CachePath": "A3/{A367BEA0-BCF9-4180-E040-701F68F32115}.wem"
+     },
+     {
+      "Id": "346708200",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Land-002.wav",
+      "Path": "Media/346708200.wem",
+      "CachePath": "D7/{D7DA82D2-761D-7E37-90FA-462FB0E4CBE0}.wem"
+     },
+     {
+      "Id": "400859978",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Land-007.wav",
+      "Path": "Media/400859978.wem",
+      "CachePath": "2E/{2E38EC86-13C8-43C0-9B23-CF7D990E7A5D}.wem"
+     },
+     {
+      "Id": "695630875",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Land-005.wav",
+      "Path": "Media/695630875.wem",
+      "CachePath": "B5/{B506B919-2BF5-89F2-DEC2-2360E127E5DF}.wem"
+     },
+     {
+      "Id": "1024572194",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Land-004.wav",
+      "Path": "Media/1024572194.wem",
+      "CachePath": "BF/{BFBAA3D7-38EC-FD2E-9E61-5C968F978992}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1463521689",
+      "Name": "Play_MB_Land",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MB_Land",
+      "GUID": "{519088E6-8263-4E24-9AF1-A2CA0BABE912}",
+      "MaxAttenuation": "1200",
+      "DurationType": "OneShot",
+      "DurationMin": "0.42375",
+      "DurationMax": "0.7388125",
+      "MediaRefs": [
+       {
+        "Id": "127990958"
+       },
+       {
+        "Id": "134591563"
+       },
+       {
+        "Id": "179373336"
+       },
+       {
+        "Id": "346708200"
+       },
+       {
+        "Id": "400859978"
+       },
+       {
+        "Id": "695630875"
+       },
+       {
+        "Id": "1024572194"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{178EFD02-941D-A8C1-5BCB-03AB429F62A2}"
+ }
+}

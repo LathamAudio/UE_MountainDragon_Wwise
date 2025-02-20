@@ -1,0 +1,145 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "635139571",
+    "Type": "Event",
+    "GUID": "{6E888799-B861-4A4F-8514-89B6269CE9A4}",
+    "Language": "SFX",
+    "Hash": "{EB8EA83D-881F-9ADB-D449-B15F82D7A3E1}",
+    "ObjectPath": "Play_MB_Flap",
+    "ShortName": "Play_MB_Flap",
+    "Path": "Event/Play_MB_Flap.bnk",
+    "Media": [
+     {
+      "Id": "53635803",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-006.wav",
+      "Path": "Media/53635803.wem",
+      "CachePath": "D3/{D3C3E1BB-4B22-0002-FC8C-5C6725FFE3D0}.wem"
+     },
+     {
+      "Id": "253413437",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-008.wav",
+      "Path": "Media/253413437.wem",
+      "CachePath": "80/{80D1174F-9B37-EB0B-3CAB-D9778D00C4BB}.wem"
+     },
+     {
+      "Id": "361130361",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-004.wav",
+      "Path": "Media/361130361.wem",
+      "CachePath": "B2/{B28ED032-739E-1398-E929-22442E94975E}.wem"
+     },
+     {
+      "Id": "370979181",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-002.wav",
+      "Path": "Media/370979181.wem",
+      "CachePath": "AD/{AD1887D3-02FE-618F-345E-94F01C09337E}.wem"
+     },
+     {
+      "Id": "549285945",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-009.wav",
+      "Path": "Media/549285945.wem",
+      "CachePath": "8E/{8E034C8E-000C-9744-4C98-89B57F5422B7}.wem"
+     },
+     {
+      "Id": "628096220",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-005.wav",
+      "Path": "Media/628096220.wem",
+      "CachePath": "53/{5327DB37-5D6B-B53B-A93A-2F51415E038D}.wem"
+     },
+     {
+      "Id": "679704939",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-007.wav",
+      "Path": "Media/679704939.wem",
+      "CachePath": "5C/{5CE741DE-36BA-691F-6C95-2B4C04DF9A51}.wem"
+     },
+     {
+      "Id": "781635485",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-001.wav",
+      "Path": "Media/781635485.wem",
+      "CachePath": "17/{173F8FE5-47C7-9838-85A2-785BE7CE4DA3}.wem"
+     },
+     {
+      "Id": "862712271",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Flap-003.wav",
+      "Path": "Media/862712271.wem",
+      "CachePath": "99/{99D2C7FE-9EE4-65CB-7F02-70FDD9A43433}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "635139571",
+      "Name": "Play_MB_Flap",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MB_Flap",
+      "GUID": "{6E888799-B861-4A4F-8514-89B6269CE9A4}",
+      "MaxAttenuation": "1200",
+      "DurationType": "OneShot",
+      "DurationMin": "0.27616668",
+      "DurationMax": "0.61854166",
+      "MediaRefs": [
+       {
+        "Id": "53635803"
+       },
+       {
+        "Id": "253413437"
+       },
+       {
+        "Id": "361130361"
+       },
+       {
+        "Id": "370979181"
+       },
+       {
+        "Id": "549285945"
+       },
+       {
+        "Id": "628096220"
+       },
+       {
+        "Id": "679704939"
+       },
+       {
+        "Id": "781635485"
+       },
+       {
+        "Id": "862712271"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{78816A60-3FDC-91F9-0020-0BBC48EEB218}"
+ }
+}

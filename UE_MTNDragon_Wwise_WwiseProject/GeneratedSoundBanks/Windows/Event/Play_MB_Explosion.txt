@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3136691735	Play_MB_Explosion			\Default Work Unit\Play_MB_Explosion	
+

@@ -1,0 +1,85 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1103883644",
+    "Type": "Event",
+    "GUID": "{3C342D7E-77E6-4ABE-9DAB-8C29E58BAFD1}",
+    "Language": "SFX",
+    "Hash": "{56D55989-61CA-3FD6-7190-2E1C68F7B692}",
+    "ObjectPath": "Play_MB_LeftClaw",
+    "ShortName": "Play_MB_LeftClaw",
+    "Path": "Event/Play_MB_LeftClaw.bnk",
+    "Media": [
+     {
+      "Id": "122509105",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Left Claw-003.wav",
+      "Path": "Media/122509105.wem",
+      "CachePath": "34/{3462C1F8-D3FA-EF25-AAD7-BF8D57A1CA1B}.wem"
+     },
+     {
+      "Id": "283234052",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Left Claw-004.wav",
+      "Path": "Media/283234052.wem",
+      "CachePath": "35/{358F026D-9778-023F-67E0-47133A65966C}.wem"
+     },
+     {
+      "Id": "691130591",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Left Claw-001.wav",
+      "Path": "Media/691130591.wem",
+      "CachePath": "B5/{B5CFF5F4-C093-AA83-7716-4B7F09B48A0B}.wem"
+     },
+     {
+      "Id": "741909534",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MB_Left Claw-002.wav",
+      "Path": "Media/741909534.wem",
+      "CachePath": "32/{3223423C-A583-0106-A79F-354D64A4F518}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1103883644",
+      "Name": "Play_MB_LeftClaw",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MB_LeftClaw",
+      "GUID": "{3C342D7E-77E6-4ABE-9DAB-8C29E58BAFD1}",
+      "MaxAttenuation": "1200",
+      "DurationType": "OneShot",
+      "DurationMin": "0.85964584",
+      "DurationMax": "0.93779165",
+      "MediaRefs": [
+       {
+        "Id": "122509105"
+       },
+       {
+        "Id": "283234052"
+       },
+       {
+        "Id": "691130591"
+       },
+       {
+        "Id": "741909534"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{039CC6F0-A2DE-96A5-F366-26E8538DE103}"
+ }
+}

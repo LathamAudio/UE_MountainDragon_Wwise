@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2092054488	Play_MB_Bite			\Default Work Unit\Play_MB_Bite	
+

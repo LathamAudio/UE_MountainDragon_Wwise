@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4294307833	Play_MB_Glide			\Default Work Unit\Play_MB_Glide	
+

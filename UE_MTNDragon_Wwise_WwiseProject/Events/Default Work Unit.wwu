@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5F90F77C-9CB0-4A74-91C1-47AF5E46B367}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{5F90F77C-9CB0-4A74-91C1-47AF5E46B367}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_MB_Bite" ID="{8F4891D3-F06E-4512-B651-B897C2120C8C}">
+					<ChildrenList>
+						<Action Name="" ID="{2DC03DBC-1DD0-4AA0-AF4F-63316829C2B9}" ShortID="1063270984">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_Bite" ID="{B3A5F516-5DA5-47D6-A733-2A0BF8F60341}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_BreatheFire" ID="{81FE1782-D7AF-4114-8813-6F21C2FE65B0}">
+					<ChildrenList>
+						<Action Name="" ID="{AC8629C5-4AA0-46E1-9033-CFB9E8A9B0F3}" ShortID="235326190">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_BreatheFire" ID="{AB623DD5-C65E-48E4-943F-5238FA02C80D}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_Explosion" ID="{EB2C1321-AE5D-4878-AE8A-8469D7E37DF9}">
+					<ChildrenList>
+						<Action Name="" ID="{4F22E731-1803-4CC4-9915-6ECCF295E166}" ShortID="733863796">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_Explosion" ID="{5A500CEE-E38C-43F6-9C06-CD9F6C6208AB}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_Fireball" ID="{AFE55368-B961-4BE9-A497-848C511EDD70}">
+					<ChildrenList>
+						<Action Name="" ID="{3A613F6F-6147-45E4-B959-047A8ECDA580}" ShortID="705432214">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_Fireball" ID="{9C1EEF58-A7B7-4772-B6A9-B45B9E3154F3}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_Flap" ID="{6E888799-B861-4A4F-8514-89B6269CE9A4}">
+					<ChildrenList>
+						<Action Name="" ID="{DA52DA7C-3837-45CD-9BC5-33BE8B944992}" ShortID="141058851">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_Flap" ID="{9549B240-0F39-4AF9-896F-F1E26292476A}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_Glide" ID="{F0687ED2-2BAF-4AA2-8D5E-D4E6D5C71B5B}">
+					<ChildrenList>
+						<Action Name="" ID="{5F58A08D-000B-4BD6-BAD0-743C1CA4BAAC}" ShortID="275984111">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_Glide" ID="{6E8B571D-3221-4911-A3B7-2BF99BE14A74}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_Land" ID="{519088E6-8263-4E24-9AF1-A2CA0BABE912}">
+					<ChildrenList>
+						<Action Name="" ID="{373BB6F9-760A-4512-84FB-81F4EF011940}" ShortID="110009510">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_Land" ID="{39EBC6C3-34AD-43D7-8A00-05C1F42EA1FE}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_Launch" ID="{5F8EB804-4547-4CCA-9F78-9F20BC1DD617}">
+					<ChildrenList>
+						<Action Name="" ID="{7CDD2D2C-CB74-4033-B0F0-47936B290229}" ShortID="938914113">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_Launch" ID="{4B1880E1-70C3-438C-84C3-7149FC8971F8}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_LeftClaw" ID="{3C342D7E-77E6-4ABE-9DAB-8C29E58BAFD1}">
+					<ChildrenList>
+						<Action Name="" ID="{46DBEC45-A2BD-449C-8940-DC6076BE4792}" ShortID="985875183">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_LeftClaw" ID="{BCF16D81-F2C3-4444-B0C1-4A18650C6B76}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_RightClaw" ID="{9F115066-D84E-45E7-81B6-301E60009082}">
+					<ChildrenList>
+						<Action Name="" ID="{EE43583D-E39F-440F-A5D6-ECFF096F940E}" ShortID="786922406">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_RightClaw" ID="{1D5CCEB0-911E-4B12-AC98-6C9879DA39CB}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MB_Step" ID="{3356E6E0-5B97-4516-827C-60BFAABE1732}">
+					<ChildrenList>
+						<Action Name="" ID="{F14B46BD-25CF-4133-8C80-F2C2202C17FC}" ShortID="165440974">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MB_Step" ID="{6CFCD7F6-45FA-4669-8545-B2619E8EBBD2}" WorkUnitID="{4A24292E-F4B9-44A2-A158-1886F280046F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
