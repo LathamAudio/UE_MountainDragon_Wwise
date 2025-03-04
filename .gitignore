@@ -11,10 +11,11 @@ Plugins/*
 UE_MTNDragon_Wwise.uproject
 
 
-
 !Content/MountainDragon/
 Content/QuadrapedCreatures/
 !Content/QuadrapedCreatures/
+!WwiseAudio/
+
 
 
  
